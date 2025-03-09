@@ -1,5 +1,0 @@
-numpy 
-tensorflow
-tqdm
-matplotlib
-scikit-image
